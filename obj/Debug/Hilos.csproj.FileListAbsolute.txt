@@ -1,0 +1,14 @@
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\bin\Debug\Hilos.exe.config
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\bin\Debug\Hilos.exe
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\bin\Debug\Hilos.pdb
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\Hilos.csprojResolveAssemblyReference.cache
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\MainWindow.g.cs
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\App.g.cs
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\Hilos_MarkupCompile.cache
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\Hilos_MarkupCompile.lref
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\MainWindow.baml
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\Hilos.g.resources
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\Hilos.Properties.Resources.resources
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\Hilos.csproj.GenerateResource.Cache
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\Hilos.exe
+c:\users\katarino\documents\visual studio 2017\Projects\Hilos\Hilos\obj\Debug\Hilos.pdb

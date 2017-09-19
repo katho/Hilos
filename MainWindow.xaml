@@ -1,0 +1,17 @@
+﻿<Window x:Class="Hilos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hilos"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Background="#FF78E4D5">
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="299" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="259"/>
+        <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Margin="339,51,0,0" VerticalAlignment="Top" Width="77"/>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="421,51,0,0" VerticalAlignment="Top" Width="86"/>
+        <Button x:Name="button" Content="Disparar hilos" HorizontalAlignment="Left" Margin="339,142,0,0" VerticalAlignment="Top" Width="91" Click="button_Click"/>
+        <Label x:Name="label2" Content="Cuenta 1" HorizontalAlignment="Left" Margin="339,20,0,0" VerticalAlignment="Top" Width="77"/>
+        <Label x:Name="label2_Copy" Content="Cuenta 2" HorizontalAlignment="Left" Margin="416,20,0,0" VerticalAlignment="Top" Width="77"/>
+    </Grid>
+</Window>
